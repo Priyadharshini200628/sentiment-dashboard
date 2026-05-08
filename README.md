@@ -1,6 +1,5 @@
-print("Sentiment Dashboard")
-print("Product Sentiment Analyzer using NLP")
-
+# sentiment-dashboard
+Product Sentiment Analyzer using NLP
 review = input("Enter product review: ")
 
 positive_words = ["good", "excellent", "awesome", "happy", "great"]
